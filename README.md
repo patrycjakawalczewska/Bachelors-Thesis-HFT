@@ -11,3 +11,7 @@ By buying an ETF (SPDR S&P 500 ETF Trust (SPY)) on NYSE (= New York Stock Exchan
 
 
 ## Transaction costs
+
+Transaction costs can have an arbitrary effect on the assets' prices, as they can erode all the profit, 
+especially if the trader is very active, which can discourage certain traders, which further impacts the prices arbitrarily.
+The graphs are intended to show this situation.
